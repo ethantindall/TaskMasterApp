@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/nav_day"
+        android:icon="@drawable/ic_baseline_access_alarm_24"
+        android:title="@string/dayview" />
+    <item
+        android:id="@+id/nav_week"
+        android:icon="@drawable/ic_baseline_calendar_view_day_24"
+        android:title="@string/weekview" />
+    <item
+        android:id="@+id/nav_month"
+        android:icon="@drawable/ic_baseline_calendar_today_24"
+        android:title="@string/allview" />
+    <item
+        android:id="@+id/nav_new"
+        android:icon="@drawable/ic_baseline_add_24"
+        android:title="@string/newview" />
+</menu>

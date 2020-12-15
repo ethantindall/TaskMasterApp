@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">TaskMaster</string>
+
+    <string-array name="days">
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </string-array>
+
+    <string name="notify">Notify</string>
+    <string name="addnew">ADD NEW</string>
+    <string name="repeat">Repeat Once</string>
+    <string name="hint">New Task Here</string>
+    <string name="dhint">DD</string>
+    <string name="mhint">MM</string>
+    <string name="yhint">YYYY</string>
+    <string name="day">Day</string>
+    <string name="month">Month</string>
+    <string name="year">Year</string>
+    <string name="newtask">New Task</string>
+
+    <string name="dayview">Day View</string>
+    <string name="weekview">Week View</string>
+    <string name="allview">All View</string>
+    <string name="newview">New Task</string>
+
+</resources>
